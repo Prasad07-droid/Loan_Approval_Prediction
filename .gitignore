@@ -1,0 +1,8 @@
+venv/
+*/venv/
+__pycache__/
+.env
+*.csv
+*.pkl
+*.keras
+.ipynb_checkpoints/
